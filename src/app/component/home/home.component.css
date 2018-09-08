@@ -1,0 +1,60 @@
+#head{
+    
+    background-image: url(/assets/3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+ 
+
+  #A{
+    background-image: url(/assets/4.jpg);
+    background-repeat: no-repeat;
+    background-size: 115%;
+    
+  }
+
+  #B{
+    background-color: black;
+    color: aliceblue;
+   
+  }
+  #c{
+    background-color: black;
+    color: aliceblue;
+   
+  }
+
+  .button-row button,
+.button-row a {
+  margin-right: 8px;
+  
+}
+
+  #D{
+    background-image: url(/assets/1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+  }
+  
+  #HIH{
+    color: rgb(167, 198, 224);
+    font-style:italic;
+    font-size: 80px;
+    
+}
+
+#food{
+    margin: 2px;
+}
+#pizzadis{
+    font-size: 25px;
+}
+
+#cc{
+  font-size: 25px;
+}
+
+#Happy{
+  margin-top: -450px;
+}

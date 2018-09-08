@@ -1,1 +1,41 @@
-/* You can add global styles to this file, and also import other style files */
+#nav{
+    background-color: rgb(12, 16, 22);
+    color: aliceblue;
+ 
+}
+
+ul li{
+    display: inline;
+    padding: 10px;
+    
+}
+
+   #button{
+       margin: 950px;
+   }
+
+   #navbutton{
+       background-color: rgb(12, 16, 22);
+       color: aliceblue;
+    
+   
+   }
+
+body{
+    margin: 0px;
+    
+}
+#maintitle{
+    margin: 10px;
+    
+}
+
+#login{
+   margin: 15px; 
+   background-color:rgb(97, 115, 138);
+}
+#signup{
+    margin: 15px;
+    background-color:rgb(97, 115, 138);
+    
+}
